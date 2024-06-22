@@ -2,7 +2,7 @@ header_pages:
   - index.md
   - about.md
 
-footer: 'took 10 minutes to think about this footer.'
+footer: "GPG public key will appear here, some time in the future."
 
 plugins:
   - jekyll-seo-tag
