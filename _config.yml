@@ -3,6 +3,3 @@ header_pages:
   - about.md
 
 footer: "GPG public key will appear here, some time in the future."
-
-plugins:
-  - jekyll-seo-tag
